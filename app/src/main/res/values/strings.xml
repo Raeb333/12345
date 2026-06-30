@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Vocacional RIASEC</string>
+    <string name="app_creator">Creada por Psicóloga Ruth Azalea Estrada y Qualitas Psicológica, MR</string>
+    <string name="copyright_notice">Esta app fue creada por psicóloga Ruth Azalea Estrada y Qualitas Psicológica, MR</string>
+    <string name="copyright_notice_full">Esta app fue creada por psicóloga Ruth Azalea Estrada y Qualitas Psicológica, MR. Todos los derechos reservados. Prohibida su copia o clonación.</string>
+    <string name="welcome_title">Orientación Vocacional</string>
+    <string name="welcome_subtitle">Teoría RIASEC de Holland &amp; Autoeficacia de Bandura</string>
+    <string name="welcome_desc">Descubre tu perfil profesional y académico con fundamento psicométrico. Conoce tus dimensiones dominantes, tu código Holland único y las carreras más recomendadas para ti.</string>
+    <string name="welcome_duration">Tiempo estimado: 8–10 minutos • 30 ítems</string>
+    <string name="comenzar_btn">Comenzar Test</string>
+    <string name="nada_identificado">Nada identificado</string>
+    <string name="poco_identificado">Poco identificado</string>
+    <string name="moderadamente_identificado">Moderadamente identificado</string>
+    <string name="bastante_identificado">Bastante identificado</string>
+    <string name="totalmente_identificado">Totalmente identificado</string>
+    <string name="pregunta_label">Pregunta %1$d de %2$d</string>
+    <string name="anterior_btn">Anterior</string>
+    <string name="siguiente_btn">Siguiente</string>
+    <string name="finalizar_btn">Finalizar y Ver Perfil</string>
+    <string name="resultados_title">Tu Perfil Vocacional</string>
+    <string name="resultados_desc">Según tus respuestas, este es el análisis cuantitativo y cualitativo de tus intereses y competencias vocacionales:</string>
+    <string name="top_three_label">Código Holland (RIASEC)</string>
+    <string name="carreras_recomendadas">Carreras Recomendadas</string>
+    <string name="reiniciar_btn">Reiniciar Test</string>
+    <string name="referencias_nota">Nota Académica: Basado en el Modelo de Tipologías de Personalidad y Ambientes Laborales de John L. Holland (1997) y los constructos de Autoeficacia Percibida y desarrollo de carrera de Albert Bandura (1986).</string>
+    <string name="historial_resultados">Historial de Evaluaciones</string>
+    <string name="eliminar_btn">Eliminar</string>
+    <string name="no_historial">Aún no hay evaluaciones guardadas. ¡Completa tu primer test!</string>
+    <string name="nombre_label">Tu Nombre (Opcional)</string>
+    <string name="nombre_placeholder">Ej. Sofía Hernández</string>
+</resources>

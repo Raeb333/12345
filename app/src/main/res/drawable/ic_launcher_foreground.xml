@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circle representing world/scope -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <!-- Secondary circle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    <!-- North Arrow -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,54 L54,22 L46,46 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,54 L54,22 L62,46 Z" />
+    <!-- South Arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 L54,86 L62,62 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M54,54 L54,86 L46,62 Z" />
+    <!-- East Arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 L86,54 L62,46 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M54,54 L86,54 L62,62 Z" />
+    <!-- West Arrow -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,54 L22,54 L46,62 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,54 L22,54 L46,46 Z" />
+</vector>

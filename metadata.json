@@ -1,0 +1,6 @@
+{
+  "name": "Vocacional RIASEC",
+  "description": "Test de orientación vocacional interactivo basado en la Teoría de Holland (RIASEC) y Autoeficacia de Bandura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
